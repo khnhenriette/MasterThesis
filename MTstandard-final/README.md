@@ -1,2 +1,2 @@
 # MTstandard
-A repo for version control of the non-gamified BCI task
+This folder contains the Unity project of the gamified version of the neurofeedback task for my MSc final project 
