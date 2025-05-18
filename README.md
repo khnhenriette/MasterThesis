@@ -10,7 +10,7 @@ The repository includes:
   * JASP: Multinomial_preference for the Bayesion analysis of the preferences for either, both, or neither condition 
   * python: preparationStatisticsAccData, preparationStatisticsGEQData, preprocessGameData, preprocessStandardData for the preprocessing and some EDA & plotting of the accuracy and experience data 
 
-(Note: the data for this project is not included in this public repository for data protection reasons) 
+(Note: the raw data for this project is not included in this public repository for data protection reasons) 
 
 User experience data was obtained using the game experience questionnaire (see IJsselsteijn, W. A., De Kort, Y. A., & Poels, K. (2013). The game experience questionnaire.)
 
