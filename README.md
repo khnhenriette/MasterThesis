@@ -4,7 +4,7 @@ The repository includes:
 - the unity project folder for a standard NF task
 - data (pseudonymized) + analysis of BCI task accuracy and user experience:
   * R: acc_bayesian_stats for the Bayesian t-test comparing accuracy in the gamified against the standard condition
-  * R: Bayesian_ANOVA for a Bayesian 2x3 repeated measures ANOVE for a more detailed analysis of the differences in accuracy between the gamified and standard condition
+  * R: Bayesian_ANOVA for a Bayesian 2x3 repeated measures ANOVA for a more detailed analysis of the differences in accuracy between the gamified and standard condition
   * R: order_bayesian_stats for a Bayesian t-test to check for a novelty effect
   * R: questionnaire_bayesian_stats for the Bayesian analysis of differences in the user experience for the gamified and the standard condition
   * JASP: Multinomial_preference for the Bayesion analysis of the preferences for either, both, or neither condition 
